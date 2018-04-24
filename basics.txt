@@ -1,0 +1,4 @@
+There are two types of commands :
+1. Internal
+2. External
+
